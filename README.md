@@ -1,7 +1,8 @@
 # Program penghitung rumus E=mc2
 
 
-# Coding program lengkap
+Coding program lengkap
+
     #include<iostream>
     using namespace std;
     int main()
